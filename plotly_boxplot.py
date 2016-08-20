@@ -1,5 +1,11 @@
+import plotly
+plotly.tools.set_credentials_file(username='AnttiVaisanen', api_key='6tkhotzvfm')
+
 import plotly.plotly as py
 import plotly.graph_objs as go
+
+
+
 
 import numpy as np
 
